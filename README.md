@@ -2,11 +2,11 @@
 
 ## 🧔 About Me
 
-- 🌱 I’m currently learning **React, NodeJS**
+- 🌱 I’m currently learning **Backend Development**
 
 - 📫 Contact me **[here](manalikumari121@gmail.com)**
 
-- 📄 My Resume [https://drive.google.com/file/d/1ZiR7vA46sxUZ0k9cTXhmw3RIvWnqID0p/view?usp=sharing](https://drive.google.com/file/d/1ZiR7vA46sxUZ0k9cTXhmw3RIvWnqID0p/view?usp=sharing)
+- 📄 My Resume [https://docs.google.com/document/d/1o8xI9iwD-xVqxdIH86WWk6iGFTXc0xpkyqYheR7CzCk/edit?usp=sharing](https://docs.google.com/document/d/1o8xI9iwD-xVqxdIH86WWk6iGFTXc0xpkyqYheR7CzCk/edit?usp=sharing)
 
 ## ✍ My Work
 
@@ -17,12 +17,13 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mana21li&layout=compact&show_icons=true&theme=dark)](https://github.com/Mana21li/Mana21li)
 
-![Skill](https://img.shields.io/badge/C++-323330?style=for-the-badge&logo=C++&logoColor=F7DF1E)
+![Skill](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Skill](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Skill](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Skill](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Skill](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Skill](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Skill](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Skill](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 🤝 Connect
 
