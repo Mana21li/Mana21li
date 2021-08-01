@@ -1,12 +1,13 @@
 ![Manali's-cover](./cover_img.png)
 
 ## 🧔 About Me
+- 💻 Web Deceloper
 
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m currently learning **Python**
 
 - 📫 Contact me **[here](manalikumari121@gmail.com)**
 
-- 📄 My Resume [https://docs.google.com/document/d/1o8xI9iwD-xVqxdIH86WWk6iGFTXc0xpkyqYheR7CzCk/edit?usp=sharing](https://docs.google.com/document/d/1o8xI9iwD-xVqxdIH86WWk6iGFTXc0xpkyqYheR7CzCk/edit?usp=sharing)
+- 📄 My Resume [https://drive.google.com/file/d/15fHO_8Fk7Q-MSFdpkLireNaijkLIfpPL/view?usp=sharing](https://drive.google.com/file/d/15fHO_8Fk7Q-MSFdpkLireNaijkLIfpPL/view?usp=sharing)
 
 ## ✍ My Work
 
@@ -24,6 +25,11 @@
 ![Skill](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Skill](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Skill](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Skill](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Skill](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Skill](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Skill](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Skill](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## 🤝 Connect
 
