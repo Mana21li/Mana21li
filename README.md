@@ -7,8 +7,6 @@
 
 - 📫 Contact me **[here](manalikumari121@gmail.com)**
 
-- 📄 My Resume [https://drive.google.com/file/d/15fHO_8Fk7Q-MSFdpkLireNaijkLIfpPL/view?usp=sharing](https://drive.google.com/file/d/15fHO_8Fk7Q-MSFdpkLireNaijkLIfpPL/view?usp=sharing)
-
 ## ✍ My Work
 
 [![Manali's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mana21li&show_icons=true&theme=dark)](https://github.com/Mana21li)
